@@ -1,5 +1,5 @@
 {
-    "name": "kdyby/strict-objects",
+    "name": "jirkae/strict-objects",
     "type": "library",
     "description": "Simple trait to make your class strict, when calling or accessing undefined member (property or method).",
     "keywords": ["kdyby", "strict", "object", "scream", "magic", "accessors", "properties", "methods", "members", "exceptions"],
